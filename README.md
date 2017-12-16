@@ -1,2 +1,2 @@
-# javalearning
-This project help learning about java core and java enterprise
+# Java learning
+This project me help learning about java core and enterprise
